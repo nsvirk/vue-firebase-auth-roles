@@ -76,8 +76,8 @@ export default {
       valid: true,
       name: "",
       email: "",
-      password: "123456",
-      repeatPassword: "123456",
+      password: "",
+      repeatPassword: "",
       showPassword: false,
       nameRules: [
         (v) => !!v || "Name is required",
