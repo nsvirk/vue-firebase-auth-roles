@@ -4,6 +4,8 @@
 
 ## Project setup
 ```
+git clone https://github.com/nsvirk/vue-firebase-auth-roles.git
+
 npm install
 ```
 
