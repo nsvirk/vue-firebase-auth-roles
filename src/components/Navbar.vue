@@ -108,12 +108,12 @@ export default {
         href: "/paiduserpage",
       },
       { title: "Roles (Auth)", icon: "mdi-account-cog", href: "/roles" },
-      {
-        title: "Store (Auth)",
-        icon: "mdi-account-key",
-        href: "/store",
-        showDevOnly: true,
-      },
+      // {
+      //   title: "Store (Auth)",
+      //   icon: "mdi-account-key",
+      //   href: "/store",
+      //   showDevOnly: true,
+      // },
       { title: "About", icon: "mdi-account-question", href: "/about" },
     ],
   }),
