@@ -28,14 +28,14 @@
               @click="btnUpdateRoles = true"
               hide-details
             ></v-checkbox>
-            <v-checkbox
+            <!-- <v-checkbox
               v-model="roles"
               label="Free User"
               color="secondary"
               value="free"
               @click="btnUpdateRoles = true"
               hide-details
-            ></v-checkbox>
+            ></v-checkbox> -->
             <!-- <p>roles : {{ roles }}</p> -->
             <v-spacer>&nbsp;</v-spacer>
             <div class="d-flex justify-center ma-4">
